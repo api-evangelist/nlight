@@ -1,5 +1,7 @@
 # Nlight
 
-Nlight is a company surfaced as a portfolio company of menlo-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+nLIGHT, Inc. (NASDAQ: LASR) is a US-based designer and manufacturer of high-power semiconductor and fiber lasers, optical fibers, and beam-control systems for directed-energy/defense, sensing, and advanced-manufacturing markets. It is a hardware and photonics company and publishes no public developer API, SDK, or developer portal.
 
-Backed by: menlo-ventures — https://nlight.net
+Website: https://nlight.net
+
+_Enriched 2026-07-20 (local-v1): confirmed no API surface; identity corrected from the original VC-portfolio stub._
